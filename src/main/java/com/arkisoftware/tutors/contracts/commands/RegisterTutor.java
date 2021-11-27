@@ -4,7 +4,7 @@ import lombok.Value;
 import org.axonframework.modelling.command.TargetAggregateIdentifier;
 
 @Value
-public class RegisterCustomer {
+public class RegisterTutor {
     @TargetAggregateIdentifier
     String tutorId;
     String firstName;
