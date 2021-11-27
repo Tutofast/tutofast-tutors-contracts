@@ -1,0 +1,4 @@
+com/arkisoftware/tutors/contracts/commands/EditTutor.class
+com/arkisoftware/tutors/contracts/events/TutorRegistered.class
+com/arkisoftware/tutors/contracts/commands/RegisterCustomer.class
+com/arkisoftware/tutors/contracts/events/TutorEdited.class
