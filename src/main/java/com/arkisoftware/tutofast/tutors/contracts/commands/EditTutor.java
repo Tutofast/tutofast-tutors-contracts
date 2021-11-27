@@ -1,4 +1,4 @@
-package com.arkisoftware.tutors.contracts.commands;
+package com.arkisoftware.tutofast.tutors.contracts.commands;
 
 import lombok.Value;
 import org.axonframework.modelling.command.TargetAggregateIdentifier;
